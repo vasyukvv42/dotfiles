@@ -1,0 +1,13 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-tomorrow-night.tmTheme",
+	"font_face": "Inconsolata LGC",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
