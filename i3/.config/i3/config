@@ -214,6 +214,7 @@ exec --no-startup-id numlockx on
 exec --no-startup-id feh --bg-scale /mnt/shared/Wallpapers/rem.png
 exec --no-startup-id compton -b
 exec --no-startup-id nm-applet
+exec --no-startup-id xautolock -time 10 -locker 'i3lock-fancy -f Noto-Sans-UI -- scrot -z'  -detectsleep
 exec --no-startup-id $HOME/Telegram/Telegram
 #exec --no-startup-id spotify
 
