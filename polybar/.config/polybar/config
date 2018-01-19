@@ -43,9 +43,8 @@ padding-right = 0
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = "Inconsolata LGC":fontformat=truetype:size=11:antialias=true;1
-font-1 = FontAwesome:pixelsize=11:antialias=true;1
-;font-2 = siji:pixelsize=11:antialias=true;1
+font-0 = fontawesome:size=11:antialias=true;2
+font-1 = "Inconsolata LGC":size=11:antialias=true;2
 
 modules-left = i3
 modules-center = xwindow

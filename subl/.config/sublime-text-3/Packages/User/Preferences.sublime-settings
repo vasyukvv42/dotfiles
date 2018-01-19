@@ -1,8 +1,8 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-tomorrow-night.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-tomorrow.tmTheme",
 	"font_face": "Inconsolata LGC",
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
