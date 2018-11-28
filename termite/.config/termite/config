@@ -1,2 +1,5 @@
 [options]
 font = Inconsolata LGC for Powerline 11
+
+[colors]
+background = rgba(63, 63, 63, 0.91)
