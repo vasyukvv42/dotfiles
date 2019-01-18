@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Materialize/schemes/Material Spaceblack Oceanic.tmTheme",
 	"font_face": "Inconsolata LGC",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"

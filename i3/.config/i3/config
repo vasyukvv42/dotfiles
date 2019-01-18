@@ -203,9 +203,6 @@ smart_borders no_gaps
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
-exec --no-startup-id wal -R
-exec --no-startup-id numlockx on
-exec --no-startup-id compton -b
 exec --no-startup-id nm-applet
 exec --no-startup-id xautolock -time 10 -locker 'i3lock-fancy -f Noto-Sans-UI -- scrot -z'  -detectsleep
 exec --no-startup-id $HOME/Telegram/Telegram
@@ -215,5 +212,5 @@ assign [class="Chromium"] 1
 assign [class="Subl"] 3
 assign [class="jetbrains*"] 2
 assign [class="Telegram"] 5
-assign [class="Opera"] 6
+assign [class="Slack"] 6
 assign [class="QtCreator"] 2

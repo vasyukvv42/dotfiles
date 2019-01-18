@@ -49,4 +49,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 syndaemon -i 0.8 -t -K -R -d
+numlockx on
+compton -b
+wal -R
 exec i3
